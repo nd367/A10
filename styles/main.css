@@ -19,6 +19,9 @@ header h3 {
 	text-indent: 30px;
 
 }
+.shadow{
+	color: #800000;
+}
 
 /* the styles for the section */
 main {
